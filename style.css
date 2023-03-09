@@ -1,0 +1,10 @@
+*{margin:0;padding:0;}
+<h1{
+        color: pink;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+p{
+    color: blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 12px
+}
